@@ -48,6 +48,13 @@ $specialPageAliases['bg'] = array(
 	'GlobalUsage' => array( 'Глобално_използване_на_файл' ),
 );
 
+/** Western Balochi (بلوچی رخشانی) */
+$specialPageAliases['bgn'] = array(
+	'GlobalUsage' => array( 'سراسرین_ایستیپاده' ),
+	'MostGloballyLinkedFiles' => array( 'بازتیرین_سراسرین_لینک_بوته_ئین_پایلان' ),
+	'GloballyWantedFiles' => array( 'زَرورتین_سراسرین_پایلان' ),
+);
+
 /** Banjar (Bahasa Banjar) */
 $specialPageAliases['bjn'] = array(
 	'GlobalUsage' => array( 'Pamakaian_global' ),
@@ -107,7 +114,7 @@ $specialPageAliases['et'] = array(
 
 /** Persian (فارسی) */
 $specialPageAliases['fa'] = array(
-	'GlobalUsage' => array( 'کاربرد_سراسری', 'استفادهٔ_سراسری' ),
+	'GlobalUsage' => array( 'استفادهٔ_سراسری' ),
 	'MostGloballyLinkedFiles' => array( 'بیشترین_پرونده‌های_پیونده‌شدهٔ_سراسری' ),
 	'GloballyWantedFiles' => array( 'پرونده‌های_سراسری_مورد_نیاز' ),
 );
